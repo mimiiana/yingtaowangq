@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mimiiana.github.io/yingtaowangq/sitemap.xml
